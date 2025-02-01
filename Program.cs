@@ -1,0 +1,14 @@
+﻿namespace C__Trening_implicit___explicit_casts;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        
+        string myString = "Hello";
+        int myWholeNumber = 10;
+        double myDouble = 15.5; 
+        char myChar = 'a';
+
+    }
+}
