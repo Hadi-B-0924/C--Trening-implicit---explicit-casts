@@ -1,0 +1,14 @@
+/Users/hadibakri/SelvKoding/C#/C# Trening implicit & explicit casts/bin/Debug/net8.0/C# Trening implicit & explicit casts
+/Users/hadibakri/SelvKoding/C#/C# Trening implicit & explicit casts/bin/Debug/net8.0/C# Trening implicit & explicit casts.deps.json
+/Users/hadibakri/SelvKoding/C#/C# Trening implicit & explicit casts/bin/Debug/net8.0/C# Trening implicit & explicit casts.runtimeconfig.json
+/Users/hadibakri/SelvKoding/C#/C# Trening implicit & explicit casts/bin/Debug/net8.0/C# Trening implicit & explicit casts.dll
+/Users/hadibakri/SelvKoding/C#/C# Trening implicit & explicit casts/bin/Debug/net8.0/C# Trening implicit & explicit casts.pdb
+/Users/hadibakri/SelvKoding/C#/C# Trening implicit & explicit casts/obj/Debug/net8.0/C# Trening implicit & explicit casts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hadibakri/SelvKoding/C#/C# Trening implicit & explicit casts/obj/Debug/net8.0/C# Trening implicit & explicit casts.AssemblyInfoInputs.cache
+/Users/hadibakri/SelvKoding/C#/C# Trening implicit & explicit casts/obj/Debug/net8.0/C# Trening implicit & explicit casts.AssemblyInfo.cs
+/Users/hadibakri/SelvKoding/C#/C# Trening implicit & explicit casts/obj/Debug/net8.0/C# Trening implicit & explicit casts.csproj.CoreCompileInputs.cache
+/Users/hadibakri/SelvKoding/C#/C# Trening implicit & explicit casts/obj/Debug/net8.0/C# Trening implicit & explicit casts.dll
+/Users/hadibakri/SelvKoding/C#/C# Trening implicit & explicit casts/obj/Debug/net8.0/refint/C# Trening implicit & explicit casts.dll
+/Users/hadibakri/SelvKoding/C#/C# Trening implicit & explicit casts/obj/Debug/net8.0/C# Trening implicit & explicit casts.pdb
+/Users/hadibakri/SelvKoding/C#/C# Trening implicit & explicit casts/obj/Debug/net8.0/C# Trening implicit & explicit casts.genruntimeconfig.cache
+/Users/hadibakri/SelvKoding/C#/C# Trening implicit & explicit casts/obj/Debug/net8.0/ref/C# Trening implicit & explicit casts.dll

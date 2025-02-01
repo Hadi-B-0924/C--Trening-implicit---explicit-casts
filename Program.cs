@@ -10,5 +10,8 @@ class Program
         double myDouble = 15.5; 
         char myChar = 'a';
 
+        var result = myString + myWholeNumber;
+        Console.WriteLine(result.GetType());
+
     }
 }

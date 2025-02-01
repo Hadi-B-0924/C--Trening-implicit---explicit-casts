@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "C# Trening implicit & explicit casts/1.0.0": {
+        "runtime": {
+          "C# Trening implicit & explicit casts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C# Trening implicit & explicit casts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

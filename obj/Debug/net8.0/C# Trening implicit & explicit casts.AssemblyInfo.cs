@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C# Trening implicit & explicit casts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30eac4793e519399ea617606fa4b1b9d4fb09b02")]
 [assembly: System.Reflection.AssemblyProductAttribute("C# Trening implicit & explicit casts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C# Trening implicit & explicit casts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
