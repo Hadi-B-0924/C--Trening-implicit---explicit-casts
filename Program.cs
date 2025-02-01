@@ -22,6 +22,10 @@ class Program
         Console.WriteLine(charResult);
         //vi får 194 i loggen da en char er en måte å holde informasjon om et tall på. 
         //en char får tildelt 16 datapakker og bruker alle 16 for å holde informasjonen om dette tallet. 
+        var addingCharToInt = myChar + myWholeNumber;
+        Console.WriteLine(addingCharToInt.GetType());
+        //i loggen blir char automatisk til en int. En god huskeregel er at den lette datatypen gjøres om til den mer komplekse datatypen.
+        //en char kan gjøres om til en int uten å miste informasjon, men en int kan ikke gjøre om til en char uten å miste informasjon. 
 
 
     }
