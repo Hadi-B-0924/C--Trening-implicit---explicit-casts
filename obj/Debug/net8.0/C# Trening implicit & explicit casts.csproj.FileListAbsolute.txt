@@ -12,3 +12,4 @@
 /Users/hadibakri/SelvKoding/C#/C# Trening implicit & explicit casts/obj/Debug/net8.0/C# Trening implicit & explicit casts.pdb
 /Users/hadibakri/SelvKoding/C#/C# Trening implicit & explicit casts/obj/Debug/net8.0/C# Trening implicit & explicit casts.genruntimeconfig.cache
 /Users/hadibakri/SelvKoding/C#/C# Trening implicit & explicit casts/obj/Debug/net8.0/ref/C# Trening implicit & explicit casts.dll
+/Users/hadibakri/SelvKoding/C#/C# Trening implicit & explicit casts/obj/Debug/net8.0/C# Trening implicit & explicit casts.sourcelink.json

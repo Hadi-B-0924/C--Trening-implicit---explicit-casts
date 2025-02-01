@@ -1,4 +1,6 @@
-﻿namespace C__Trening_implicit___explicit_casts;
+﻿using System.Runtime.CompilerServices;
+
+namespace C__Trening_implicit___explicit_casts;
 
 class Program
 {
@@ -12,6 +14,10 @@ class Program
 
         var result = myString + myWholeNumber;
         Console.WriteLine(result.GetType());
+        var numberResult = myWholeNumber + myDouble;
+        Console.WriteLine(numberResult.GetType());
+        
+
 
     }
 }
