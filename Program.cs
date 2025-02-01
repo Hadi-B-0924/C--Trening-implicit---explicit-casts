@@ -39,12 +39,16 @@ class Program
         //gjør den som en tommelfinger regel, den mindre kompliserte typen om til den mest kompliserte. 
         //Slik at den kan gjøre operasjoner på begge uten å miste data. 
 
-        int mySecondWholeNumber = 13;
-        var divisionResult = myWholeNumber / mySecondWholeNumber;
-        Console.WriteLine(divisionResult.GetType());
+       // int mySecondWholeNumber = 13;
+        //var divisionResult = myWholeNumber / mySecondWholeNumber;
+        //Console.WriteLine(divisionResult.GetType());
         //vi deler 10 på 13, men får 0 i resultat. Siden int ikke kan holde noe desimalverdi så blir resultatet av divisjonen bare 0. 
 
-
+        int mySecondWholeNumber = 13;
+        var divisionResult = myWholeNumber / (double) mySecondWholeNumber; //Her explicit caster vi (aka forteller datamaskinen at) mySecondWholeNumber
+        //skal behandles som om den er av datatypen DOUBLE. 
+        Console.WriteLine(divisionResult); //Det gjør at resultatet av operasjonen også blir behandlet som en double. 
+        //i dette tilfellet vil divisjonen gi oss desimalverdien vi er ute etter.
 
     }
 }
