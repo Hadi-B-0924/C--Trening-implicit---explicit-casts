@@ -12,6 +12,9 @@ class Program
         double myDouble = 15.5; 
         char myChar = 'a';
 
+
+
+        //Implicit casting;
         var result = myString + myWholeNumber;
         Console.WriteLine(result.GetType());
         var numberResult = myWholeNumber + myDouble;
@@ -26,6 +29,15 @@ class Program
         Console.WriteLine(addingCharToInt.GetType());
         //i loggen blir char automatisk til en int. En god huskeregel er at den lette datatypen gjøres om til den mer komplekse datatypen.
         //en char kan gjøres om til en int uten å miste informasjon, men en int kan ikke gjøre om til en char uten å miste informasjon. 
+        var addingCharToString = myChar + myString;
+        Console.WriteLine(addingCharToString.GetType());
+        //igjen ser vi at vi får en string ut når vi slår sammen en char og en string.
+        //den mindre kompliserte typen er gjort om til den mer kompliserte typen for at variablene kan operere sammen. 
+
+        //Alle Var eksemplene vi har gjennomgått så langt er eksempler på det vi kaller for Implicit casting. 
+        //Hvis datamaskinen må gjøre operasjoner på to forskjellige datatyper, 
+        //gjør den som en tommelfinger regel, den mindre kompliserte typen om til den mest kompliserte. 
+        //Slik at den kan gjøre operasjoner på begge uten å miste data. 
 
 
     }
