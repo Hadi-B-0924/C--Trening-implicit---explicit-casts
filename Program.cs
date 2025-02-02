@@ -54,5 +54,10 @@ class Program
         //greit å miste data om desimaltall. Aka, den ignorer all desimaltall utenom i ekstreme tilfeller hvor tallet er EKSTREMT nær neste hele tall.
         Console.WriteLine(addNumberResult);
 
+        char mySeccondChar = 'b';
+        var divisionWithChar = myChar / (double) mySeccondChar; //På samme måte med ints, kan vi og caste chars til doubles for å hente ute 
+        //desimal tall etter en divisjon. 
+        Console.WriteLine(divisionWithChar);
+
     }
 }
