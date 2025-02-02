@@ -50,5 +50,9 @@ class Program
         Console.WriteLine(divisionResult); //Det gjør at resultatet av operasjonen også blir behandlet som en double. 
         //i dette tilfellet vil divisjonen gi oss desimalverdien vi er ute etter.
 
+        var addNumberResult = myWholeNumber + (int) myDouble; //Når vi caster en double til en int, sier vi til datamaskinen at det er helt
+        //greit å miste data om desimaltall. Aka, den ignorer all desimaltall utenom i ekstreme tilfeller hvor tallet er EKSTREMT nær neste hele tall.
+        Console.WriteLine(addNumberResult);
+
     }
 }
