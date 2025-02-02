@@ -59,5 +59,11 @@ class Program
         //desimal tall etter en divisjon. 
         Console.WriteLine(divisionWithChar);
 
+        int thisHasToBeAChar = 103; 
+        var pleaseMakeThisWork = (char)thisHasToBeAChar;
+        Console.WriteLine(pleaseMakeThisWork);
+        //vi ser i loggen at vi får ut bokstave g, noe som betyr at vi kan gjøre om en int til char og vice versa. MEN vi må huske på at
+        //en int kan miste av verdien sin når vi gjør den til en karakter nemlig fordi vi går fra en int med 32 datapakker til en karakter med 16 datapakker.
+
     }
 }
